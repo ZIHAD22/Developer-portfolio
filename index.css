@@ -39,6 +39,7 @@ h2 {
   margin-left: 5%;
   margin-right: 5%;
   box-shadow: 51px 6px 49px 30px gray;
+  border-radius: 10px;
 }
 .experience-area {
   background-image: url(./images/exp-bg.png);
